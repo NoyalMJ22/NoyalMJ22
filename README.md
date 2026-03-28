@@ -1,81 +1,79 @@
 <div align="center">
 
 ```
- ███╗   ██╗ ██████╗ ██╗   ██╗ █████╗ ██╗
- ████╗  ██║██╔═══██╗╚██╗ ██╔╝██╔══██╗██║
- ██╔██╗ ██║██║   ██║ ╚████╔╝ ███████║██║
- ██║╚██╗██║██║   ██║  ╚██╔╝  ██╔══██║██║
- ██║ ╚████║╚██████╔╝   ██║   ██║  ██║███████╗
- ╚═╝  ╚═══╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚══════╝
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║      s o m e o n e   b u i l d s   h e r e .        ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 ```
 
-**`building things · breaking things · learning everything`**
-
 </div>
 
----
+<br/>
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=NoyalMJ22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+```python
+>>> whoami
+... thinking
+... still thinking
+... access denied.
+```
 
-### hey, I'm Noyal 👋
-
-A curious developer from **Kerala, India** 🌴  
-I write code, ship projects, and occasionally stare at bugs for too long.
-
-- 🔭 &nbsp;Always building something new
-- 🌱 &nbsp;Constantly leveling up my stack
-- 💬 &nbsp;Ask me anything — I like talking code
-- ⚡ &nbsp;Fun fact: I debug better with music on
-
-<br clear="right"/>
+<br/>
 
 ---
 
-### 🛠 &nbsp;Tech I work with
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=NoyalMJ22&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=888888&text_color=666666&icon_color=555555&hide_rank=true&count_private=true" width="360"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-</p>
+&nbsp;&nbsp;**`/usr/NoyalMJ22`**
+
+&nbsp;&nbsp;→ &nbsp; ships code quietly  
+&nbsp;&nbsp;→ &nbsp; thinks before speaking  
+&nbsp;&nbsp;→ &nbsp; prefers done over loud  
+&nbsp;&nbsp;→ &nbsp; from the rain & coconut trees 🌴
+
+<br/><br/><br/>
 
 ---
 
-### 📊 &nbsp;This month in code
+<br/>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=NoyalMJ22&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+`things I reach for`
+
+![Python](https://img.shields.io/badge/python-111?style=flat-square&logo=python&logoColor=555)
+![JavaScript](https://img.shields.io/badge/javascript-111?style=flat-square&logo=javascript&logoColor=555)
+![HTML](https://img.shields.io/badge/html-111?style=flat-square&logo=html5&logoColor=555)
+![CSS](https://img.shields.io/badge/css-111?style=flat-square&logo=css3&logoColor=555)
+![Git](https://img.shields.io/badge/git-111?style=flat-square&logo=git&logoColor=555)
+![Linux](https://img.shields.io/badge/linux-111?style=flat-square&logo=linux&logoColor=555)
 
 </div>
 
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoyalMJ22&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/NoyalMJ22)
-
-</div>
-
----
-
-### 📬 &nbsp;Find me
-
-<p>
-  <a href="https://github.com/NoyalMJ22">
-    <img src="https://img.shields.io/badge/GitHub-@NoyalMJ22-181717?style=flat-square&logo=github"/>
-  </a>
-</p>
+<br/>
 
 ---
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."*
+[![GitHub Streak](https://streak-stats.demolab.com?user=NoyalMJ22&theme=dark&hide_border=true&background=00000000&ring=444444&fire=666666&currStreakLabel=555555&dates=444444&currStreakNum=666666&sideNums=555555&sideLabels=444444)](https://github.com/NoyalMJ22)
 
-![Profile Views](https://komarev.com/ghpvc/?username=NoyalMJ22&color=blueviolet&style=flat-square&label=profile+views)
+</div>
+
+---
+
+<br/>
+
+<div align="center">
+
+```
+not everything worth building
+needs an audience.
+```
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=NoyalMJ22&color=111111&style=flat-square&label=ghosts+who+passed+by)
 
 </div>
