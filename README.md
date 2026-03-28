@@ -1,47 +1,81 @@
-<h1 align="center">Noyal Mathew Jain</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=20&pause=1000&color=0F172A&center=true&vCenter=true&width=450&lines=AI+%26+Data+Science;Building+clean+tech;Always+learning" />
+```
+ ███╗   ██╗ ██████╗ ██╗   ██╗ █████╗ ██╗
+ ████╗  ██║██╔═══██╗╚██╗ ██╔╝██╔══██╗██║
+ ██╔██╗ ██║██║   ██║ ╚████╔╝ ███████║██║
+ ██║╚██╗██║██║   ██║  ╚██╔╝  ██╔══██║██║
+ ██║ ╚████║╚██████╔╝   ██║   ██║  ██║███████╗
+ ╚═╝  ╚═══╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚══════╝
+```
+
+**`building things · breaking things · learning everything`**
+
+</div>
+
+---
+
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=NoyalMJ22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+### hey, I'm Noyal 👋
+
+A curious developer from **Kerala, India** 🌴  
+I write code, ship projects, and occasionally stare at bugs for too long.
+
+- 🔭 &nbsp;Always building something new
+- 🌱 &nbsp;Constantly leveling up my stack
+- 💬 &nbsp;Ask me anything — I like talking code
+- ⚡ &nbsp;Fun fact: I debug better with music on
+
+<br clear="right"/>
+
+---
+
+### 🛠 &nbsp;Tech I work with
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=noyalmj22&color=0f172a&style=flat" />
-</p>
+### 📊 &nbsp;This month in code
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=NoyalMJ22&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoyalMJ22&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/NoyalMJ22)
+
+</div>
 
 ---
 
-<p align="center">
-  <i>
-    building things that matter<br>
-    learning every day<br>
-    improving silently
-  </i>
-</p>
+### 📬 &nbsp;Find me
 
----
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,mysql,tensorflow,pytorch,git" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/noyal-mathew-jain-551ab730b/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+<p>
+  <a href="https://github.com/NoyalMJ22">
+    <img src="https://img.shields.io/badge/GitHub-@NoyalMJ22-181717?style=flat-square&logo=github"/>
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=noyalmj22&show_icons=true&theme=transparent&hide_border=true" />
-</p>
+<div align="center">
 
----
+*"First, solve the problem. Then, write the code."*
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=80&section=footer"/>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=NoyalMJ22&color=blueviolet&style=flat-square&label=profile+views)
+
+</div>
